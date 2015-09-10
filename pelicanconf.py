@@ -38,7 +38,9 @@ USE_FOLDER_AS_CATEGORY = False
 #     ]
 
 TEMPLATE_PAGES = {'admin/index.html': 'admin/index.html'}
-STATIC_PATHS = ['admin']
+STATIC_PATHS = ['uploads', 'admin']
+
+CMS_ENV = "development"
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True

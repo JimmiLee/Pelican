@@ -20,5 +20,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 # Following items are often useful when publishing
 
+CMS_ENV = "production"
 #DISQUS_SITENAME = ""
 #GOOGLE_ANALYTICS = ""
