@@ -5,7 +5,7 @@ backend:
 production:
   backend:
     name: github-api
-    repo: netlify-templates/pelican-netlify-cms # Change this to your repo
+    repo: AlcoholiO/Pelican
     branch: master
 
 media_folder: "content/uploads" # Folder where user uploaded files should go
